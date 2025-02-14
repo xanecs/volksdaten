@@ -1,4 +1,4 @@
-# <span style="text-decoration: line-through;">Power</span> Data to the People!
+# ~~Power~~ Data to the People!
 
 > Was Volkswagen kann können wir schon lang!
 
